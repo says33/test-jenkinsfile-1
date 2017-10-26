@@ -1,4 +1,4 @@
-stage "hello"
+stage "test"
 
 node {
   echo 'Hello world'
